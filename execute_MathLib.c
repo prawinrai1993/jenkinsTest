@@ -10,7 +10,7 @@ int main()
 	val = sub(10,20);
 	printf("substraction_result =%d\n",val);
 
-	val = mul()(10,20);
+	val = mul(10,20);
 	printf("multiplication_result =%d\n",val);
 
 	val = mod(10,20);
